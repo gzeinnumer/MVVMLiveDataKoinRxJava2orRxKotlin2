@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='MVVM LiveData Koin RxJava2 or RxKotlin2'
